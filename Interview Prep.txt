@@ -1,0 +1,36 @@
+1.      Tell me about yourself
+2.	Tell me something that is not on your CV.
+3.	Introduce yourself in 30 seconds.
+4.	Which one word would describe you the best?
+5.	Use three adjectives to describe yourself.
+6.	How would your friends describe you?
+7.	What are your short-term/long-term goals?
+8.	What do success and failure mean to you?\
+9.	Tell me about an accomplishment that you are proud of.
+10.	Tell me about a time when you made a mistake and what you learned from it.
+11.	What has been your biggest failure? How did you deal with it?
+12.	What is your biggest regret in your life?
+13.	How would you rate yourself on a scale of 1-10?
+14.	How do you deal with criticism and sarcasm?
+15.	What are the three most important events of your life?
+16.	What are your strengths and weaknesses?
+17.	What is your biggest fear, and how did you overcome it?
+18.	What is the most difficult decision you made in your life?
+19.	State 3 of your strengths and your weaknesses. Why do you think XYZ (particular
+20.	characteristic) is a strength/weakness? How have you handled it in the past? If not faced?
+21.	Why should we select you, given that thousands of similar applicants are like you?
+22.	Give us three reasons not to select you.
+23.	Mention a few aspects you bring to the table if selected.
+24.	Do you think Hard work or smart work is more important?
+25.	What are your hobbies?
+26.	What is your passion and why?
+27.	Who is your role model (both family and non-family)? Why?
+28.	What motivates you?
+29.	What makes you uncomfortable?
+30.	What values did you learn through your extracurricular activities?
+31.	Did you hold a significant position of responsibility at your college? What did it teach you?
+32.	How important do you feel social responsibility is nowadays?
+33.	After MBA, job or Entrepreneurship?
+34.	If you are planning for a startup, then why MBA? What values do you think you will gain over
+35.	the two years?
+36.	Questions on Institute & Courses

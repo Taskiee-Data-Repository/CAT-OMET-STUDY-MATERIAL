@@ -1,0 +1,101 @@
+Mathematics Topics
+Arithmetic and Number Systems
+
+HCF and LCM
+Divisibility rules
+Introduction to factors
+Simplification
+Cyclicity of factors
+Roman Numerals
+Algebra
+
+Introduction to functions
+Linear equations (in 2 and 3 variables)
+Quadratic equations
+Factorizing Polynomials
+Progressions (Arithmetic, Geometric, Harmonic)
+Sum of convergent series
+Surds and Indices
+Logarithms
+Geometry and Mensuration
+
+Introduction to triangles (Incentre, orthocentre, circumcentre)
+Area of a triangle
+Congruency of triangles
+Circumference and area of a circle
+Chords and tangent properties
+Alternate Segment Theorem
+Quadrilaterals
+Polygons
+Coordinate Geometry
+Basics of trigonometry
+Height and Distance
+Mensuration of Solids (1 and 2)
+Combinatorics and Probability
+
+Basics of Permutation and Combination
+Binomial Theorem
+Probability
+Probability with DICE and Cards
+Selection and arrangement with repetition
+Data Interpretation
+
+DI (Bar, Pie, Line Charts)
+Table-based DI
+Time, Speed, Distance
+
+Races and Headstart
+Boats and escalators
+Relative velocity
+Circular tracks
+Work and Time
+
+Time and Work
+Miscellaneous Topics
+
+Mixtures and solutions
+Alligation
+Variation
+English Topics
+Grammar
+
+Parts of Speech
+Subject-verb agreement
+Verb-adverb placement
+Preposition errors
+Tenses and tense consistency
+Common grammar mistakes
+Sentence Construction and Correction
+
+Combining sentences
+Sentence correction
+Wrong word usage
+Direct and indirect speech
+Active and passive voice
+Vocabulary
+
+Synonyms and Antonyms
+One-word substitution
+Commonly confused words
+Spelling
+Idioms and Phrases
+Prefix and Suffix
+Critical Reasoning
+
+Identifying conclusions
+Finding assumptions
+Assertion and Reasoning
+Statement and Arguments
+Reading and Logical Reasoning
+
+Fill in the blanks
+Analogies
+Para jumbles
+Letter puzzles
+Ranking
+Coded equations
+Miscellaneous Topics
+
+Foreign words
+Arrange in dictionary order
+Components in critical reasoning
